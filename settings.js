@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "94773736172",
   OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
-  ZUSYCO_FILE : "ZUSYCO-QR-3",
+  ZUSYCO_FILE : "ZUSYCO-QR-6",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
@@ -33,7 +33,7 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "All Chats.",
+  WORK_MODE : "All Chats",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
