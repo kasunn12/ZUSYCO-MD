@@ -33,7 +33,7 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "allchats",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
@@ -45,10 +45,10 @@ module.exports = {
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : false,
-        NOT_WORKING : false,
+        NOT_WORKING : true,
   },
   READ : {
-     ALL_MESSAGES : false,
+     ALL_MESSAGES : true,
      ONLY_COMMANDS : true,
      STATUS : true,
   },
