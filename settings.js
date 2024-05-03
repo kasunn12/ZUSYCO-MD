@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "94773736172",
   OWNER_NAME: "『 Nera 』",
   BOT_NAME : "Nera",
-  ZUSYCO_FILE : "ZUSYCO-QR-2.nima",
+  ZUSYCO_FILE : "ZUSYCO-QR-6.nima",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '❤️',
+  OWNER_REACT : '👍',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
